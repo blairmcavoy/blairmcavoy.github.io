@@ -4,8 +4,8 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
-
+Blair McAvoy
+Clubhouse Coordinator at Computers4Kids in Charlottesville, VA.
 ### More Information
 
 A place to include any other types of information that you'd like to include about yourself.
